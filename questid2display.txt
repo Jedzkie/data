@@ -15503,3 +15503,25 @@ Gather 50 Wooden Gnarls that you can get from hunting the Gibbet monsters in Nif
 70080#Food Ingredient timer#SG_FEEL#QUE_NOIMAGE#
 You must wait 23 hours before you can receive another quest from the Eden Group Chef.#
 #
+
+// Eden Paradise
+29995#A Sister's Favor#SG_FEEL#QUE_NOIMAGE#
+Find the Brother of Eden Teleport Officer in Prontera Castle and give the Letter.#
+#
+29996#A Brother's gift to sister#SG_FEEL#QUE_NOIMAGE#
+Return to Eden Teleport Officer and give the Cookie.#
+#
+
+// Turn-In Event
+30000#Anolian Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt 100 Anolian monsters in Payon Cave and return to Gramps at Eden Group HQ to get your reward.#
+#
+30001#Anolian Hunting - Cooldown#SG_FEEL#QUE_NOIMAGE#
+You cannot re-take the Anolian Hunting Quest within 2 hours.#
+#
+30002#Merman Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt 100 Merman monsters in Payon Cave and return to Gramps at Eden Group HQ to get your reward.#
+#
+30003#Merman Hunting - Cooldown#SG_FEEL#QUE_NOIMAGE#
+You cannot re-take the Merman Hunting Quest within 2 hours.#
+#

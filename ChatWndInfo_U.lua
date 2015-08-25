@@ -25,7 +25,7 @@ ChatSubWnd_1 = {
 	option16 = 0,
 	option17 = 0,
 	option18 = 0,
-	option19 = 0,
+	option19 = 1,
 	option20 = 0,
 	option21 = 0,
 }

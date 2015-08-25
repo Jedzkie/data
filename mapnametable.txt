@@ -1,3 +1,6 @@
+// Turn-In Events
+t_pay_dun00.rsw#(Turn-In) Payon Cave#
+
 06guild_01.rsw#Guild War Arena#
 06guild_02.rsw#Guild War Arena#
 06guild_03.rsw#Guild War Arena#
@@ -7,14 +10,6 @@
 06guild_07.rsw#Guild War Arena#
 06guild_08.rsw#Guild War Arena#
 06guild_r.rsw#Guild War Arena - Waiting Room#
-1@cash.rsw#Octopus Cave#
-1@cata.rsw#Catacomb#
-1@ecl.rsw#에클라쥬 내부#
-1@lhz.rsw#보르세브의 연구실#
-1@ma_b.rsw#Bakonawa Hideout#
-1@ma_c.rsw#Buwaya Cave#
-1@ma_h.rsw#Bangungot Hospital 2F#
-1@mist.rsw#The Hazy Maze Forest#
 1@nyd.rsw#Nidhoggur's Nest#
 1@orcs.rsw#Subterranean Orc Cave#
 1@pump.rsw#Drain#

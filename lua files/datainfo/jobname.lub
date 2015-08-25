@@ -1710,4 +1710,7 @@ JobNameTable = {
 	[jobtbl.JT_JP_ARUNA] = "JP_ARUNA",
 	[jobtbl.JT_JP_AIRI] = "JP_AIRI",
 	[jobtbl.JT_WATERMELON] = "WATERMELON",
+	-- Turn-In Event Monsters --
+	[jobtbl.JT_T_ANOLIAN] = "Anolian",
+	[jobtbl.JT_T_MERMAN] = "Merman",
 }

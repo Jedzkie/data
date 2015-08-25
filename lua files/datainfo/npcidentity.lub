@@ -1150,7 +1150,10 @@ jobtbl = {
 	["JT_E_BLUE_PLANT"] = 2148,
 	["JT_E_SAVAGE_BABE"] = 2149,
 	["JT_WATERMELON"] = 2150,	
-	["JT_MONSTER_LAST"] = 2151,
+	-- Turn-In Events --
+	["JT_T_ANOLIAN"] = 3500,
+	["JT_T_MERMAN"] = 3501,
+	["JT_MONSTER_LAST"] = 4000,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
