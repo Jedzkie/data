@@ -15505,11 +15505,18 @@ You must wait 23 hours before you can receive another quest from the Eden Group 
 #
 
 // Eden Paradise
+29994#Meet Instructor Ur#SG_FEEL#QUE_NOIMAGE#
+Talk to Instructor Ur to continue your journey in Eden Paradise HQ.#
+#
+
 29995#A Sister's Favor#SG_FEEL#QUE_NOIMAGE#
 Find the Brother of Eden Teleport Officer in Prontera Castle and give the Letter.#
 #
 29996#A Brother's gift to sister#SG_FEEL#QUE_NOIMAGE#
 Return to Eden Teleport Officer and give the Cookie.#
+#
+29997#Join Eden Group#SG_FEEL#QUE_NOIMAGE#
+Talk to Secretary Lime Evenor and ask for Registration.#
 #
 
 // Turn-In Event
