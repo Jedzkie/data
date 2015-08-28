@@ -1609,7 +1609,7 @@ Anyone#
 [%s] deal damage to [%s] with '%d' damage.#
 You dropped %s (%d).#
 [%s] Quest - defeated [%s] progress (%d/%d)#
-The Quest %s has been removed.#
+The Quest [%s] has been removed.#
 [%s] has #
 '%d' EXP#
 '%d' Job EXP#
