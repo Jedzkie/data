@@ -1,6 +1,10 @@
 //-최종갱신 오전 10:45 2013-03-19 본서버
 //맵이름.rsw#bgm\\음악번호#
 
+// Sakray Server
+izl_test.rsw#bgm\\26.mp3#
+pvp_test.rsw#bgm\\26.mp3#
+
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
 izlude.rsw#bgm\\26.mp3#

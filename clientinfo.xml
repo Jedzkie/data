@@ -12,12 +12,7 @@
 		<port>6900</port>
 		<version>25</version>
 		<langtype>1</langtype>
-		<registrationweb></registrationweb>
-		<yellow>
-			<admin>2000001</admin>
-			<admin>2000002</admin>
-			<admin>2000003</admin>
-		</yellow>
+		<registrationweb>http://herc.ws/</registrationweb>
 		<loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>

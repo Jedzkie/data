@@ -1,12 +1,13 @@
-// Turn-In Events
-moc_para01.gnd#moc_para01.gnd#
-moc_para01.gat#moc_para01.gat#
-moc_para01.rsw#moc_para01.rsw#
-유저인터페이스\map\moc_para01.bmp#유저인터페이스\map\moc_para01.bmp#
-t_pay_dun00.gnd#pay_dun00.gnd#
-t_pay_dun00.gat#pay_dun00.gat#
-t_pay_dun00.rsw#pay_dun00.rsw#
-유저인터페이스\map\t_pay_dun00.bmp#유저인터페이스\map\pay_dun00.bmp#
+// Beta Test
+izl_test.gnd#izlude.gnd#
+izl_test.gnd#izlude.gnd#
+izl_test.gnd#izlude.gnd#
+유저인터페이스\map\izl_test.bmp#유저인터페이스\map\izlude.bmp#
+
+pvp_test.gnd#izlude.gnd#
+pvp_test.gnd#izlude.gnd#
+pvp_test.gnd#izlude.gnd#
+유저인터페이스\map\pvp_test.bmp#유저인터페이스\map\izlude.bmp#
 
 1@nyd.gnd#1@nyd.gnd#
 1@nyd.gat#1@nyd.gat#

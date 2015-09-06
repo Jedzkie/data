@@ -2591,6 +2591,15 @@ SKILL_INFO_LIST = {
 			{ SKID.AL_DEMONBANE,5 }
 		}
 	},
+	[SKID.PA_SHIELDCHAIN] = {
+		"PA_SHIELDCHAIN";
+		SkillName = "Rapid Smiting",
+		MaxLv = 5,
+		SpAmount = { 28, 31, 34, 37, 40 },
+		_NeedSkillList = {
+			{ SKID.CR_SHIELDBOOMERANG,5 }
+		}
+	},
 
 	-- Champion Skills --
 	[SKID.CH_SOULCOLLECT] = {
@@ -2942,7 +2951,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_CULTIVATION] = {
 		"CR_CULTIVATION";
-		SkillName = "Plant Cultivation",
+		SkillName = "Cultivate Plant",
 		MaxLv = 2,
 		SpAmount = { 10, 10 }
 	},
@@ -3498,16 +3507,6 @@ SKILL_INFO_LIST = {
 	[SKID.SL_GUNNER] = {
 		"SL_GUNNER";
 		SkillName = "Gunslinger Spirit",
-	},
-
-	[SKID.PA_SHIELDCHAIN] = {
-		"PA_SHIELDCHAIN";
-		SkillName = "Shield Chain",
-		MaxLv = 5,
-		SpAmount = { 28, 31, 34, 37, 40 },
-		_NeedSkillList = {
-			{ SKID.CR_SHIELDBOOMERANG,5 }
-		}
 	},
 
 	[SKID.PF_DOUBLECASTING] = {

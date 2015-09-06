@@ -100,8 +100,8 @@ Send Messages#
 1:1 Chat#
 Please visit, ^0000ffhttp://eternal-ro.net/donate^000000 to load up your account.#
 Party Setup#
-Friend#
-Party#
+Friend #
+Party #
 Equipment#
 Status#
 Inventory#
@@ -607,7 +607,7 @@ Item at 0 Zeny exists. Do you wish to continue?#
 A message to the BETA users in Japan-> Let's rejoin Kung-Ho#
 A message to users terminated in payment from Japan -> Pay bills. Pay twice#
 Character in the same account already joined.#
-(%d ppl) - over the age 18#
+ [^ff0000Test Server Only!^000000] (%d)#
 Provoke initiated.#
 Provoke canceled.#
 Endure initiated.#
@@ -760,8 +760,8 @@ Chat logs are not accepted as evidence for any ill-mannered violation on account
 I love you.#
 Please adjust your monitor/video brightness if effects appear too bright.#
 If full screen mode fails to work, it is suggested you alt+tab [or ctrl+esc] to inactivate and reactivate the Ragnarok Client.#
- (%d players) - Pay to Play Server#
- (%d players) - Free Server#
+ (%d)#
+ (%d)#
 Trial players can't connect Pay to Play Server.#
 Right click menu skills for F9 are Enabled.[/q1 ON]#
 Right click menu skills for F9 are Disabled.[/q1 OFF]#
@@ -912,7 +912,7 @@ Upgradeable Weapons#
 Weapons upgraded: %s#
 Weapons upgraded: %s#
 You cannot upgrade %s until you level up your Upgrade Weapon skill.#
-You lack a necessary item %s to upgrade this weapon.#
+Insufficient [%s] to upgrade this weapon.#
 Full Divestment cannot pierce the target. The target is fully shielded.#
 You cannot adopt a married person.#
 This name is not registered in your Friend List. Please check the name again.#
@@ -1208,10 +1208,10 @@ You can feel hatred from your pet for neglecting to feed it.#
 [Angel's Answer] I'm very pleased with your answer. You are a splendid adventurer.#
 [Angel's Answer] You've disappointed me...#
 [Point] You earned %d Ranking Points, giving you a total of %d Ranking Points.#
-[%s]'s Points: %d Points#
+[%s]'s RoK Points: %d RoK Points#
 Unselected Characters will be deleted. Continue?#
 You cannot select more than 8.#
-Do you want to change your name to '%s'?#
+Do you want to change your name to '^990000%s^000000'?#
 Character Name has been changed successfully.#
 You have failed to change this character's name.#
 You can purchase only one kind of item at a time.#
@@ -1224,7 +1224,7 @@ There is no party member to summon in the current map.#
 You cannot find any trace of a Boss Monster in this area.#
 Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
 The location of Boss Monster, '%s', will be displayed on your Mini-Map.#
-Do you want to open '%s'? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
+Do you want to open '^000099%s^000000'? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
 The Purchase has failed because the NPC does not exist.#
 The Purchase has failed because the Kafra Shop System is not working correctly.#
 You cannot purchase items while you are in a trade.#
@@ -1252,11 +1252,11 @@ This character will not receive any EXP penalty if killed within the next 30 min
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
 Do you really want to purchase '%s'? %d points will be deducted from your total Cash Points.#
- You do not have enough Cash Points.#
+You do not have enough RoK Points.#
 ^ff0000Expiration Date: %s^000000#
-The '%s' item will disappear in %d minutes.#
- '%s' item will be deleted from the Inventory in 1 minute.#
- '%s' item has been deleted from the Inventory.#
+The item '%s' will disappear in %d minutes.#
+The item '%s' will be deleted from the Inventory in 1 minute.#
+The item '%s' has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
 Boss Monster '%s' will appear within 1 minute.#
@@ -1303,14 +1303,14 @@ Close#
 Weapon#
 Armor#
 Insufficient Skill Level for joining a Party#
-[%s]'s Free Cash: %d Cash#
-Use Free Cash: #
-Cash#
+[%s]'s Free RoK: %d P#
+Use Free RoK: #
+RoK#
 http://payment.ro.hangame.com/index.asp#
 You need to accept the Privacy Policy from Gravity in order to use the service.#
 You need to accept the User Agreement in order to use the service.#
 Incorrect or nonexistent ID.#
-Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
+Do you really want to purchase '%d'? You will spend %d Regular RoK Points and %d Free RoK Points.#
 %d hour(s) has passed.#
 %d hour(s) %d minute(s) has passed.#
 Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
@@ -1327,7 +1327,7 @@ Block all party invitations.#
 Allow all party invitations.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
-You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
+You do not have enough RoK Points. Please enter whether you have Free RoK points.#
 Request to Join Party#
 Display WOE Info#
 Memorial Dungeon %s's reservation has been canceled.#
@@ -1458,7 +1458,7 @@ Please equipped with a Barrier Generator.#
 Please equipped with a Optical Camouflage Generator.#
 Please equipped with a Repair Kit.#
 Monkey Wrench is required.#
-[%s] Cannot use the skills.#
+[%s] skill has failed.#
 %d higher level is impossible to remove.#
 Cannot be used without Magic Gear equipped.#
 Dismount Dragon.#
@@ -1534,7 +1534,7 @@ Or delegate the real party leader?#
 Available.#
 cannot be delegated as party leader.#
 Immutable#
-[%s] is %d are necessary.#
+[%s] is required.#
 Is now refining the value lowered.#
 [%s] can be used are equipped with#
 Field list#
@@ -1775,7 +1775,7 @@ You cannot equip this item with your current level.#
 You cannot use this item with your current level.#
 Enable Battlemode#
 Failed to add because you have reached the limit.#
-Window Sign Information#
+ Window Sign Information#
 Sell#
 Purchase#
 Search for Vends#
@@ -1855,8 +1855,8 @@ Other#
 Cost#
 Quantity#
 Total#
-Free cache: %s C#
-Used cache: %s C#
+Free RoK: %s P#
+Used RoK: %s P#
 You cannot summon a monster in this area.#
 The cache usage has exceeded the total amount of #
 Content has been saved in [SaveData_ExMacro%d]#

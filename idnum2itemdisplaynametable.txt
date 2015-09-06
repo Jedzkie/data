@@ -5742,7 +5742,7 @@
 12779#Galapago_Scroll#
 12785#드래곤의_알#
 12786#슬롯_이동_카드#
-12790#이름_변경_카드#
+12790#Name_Change_Coupon#
 12795#2011_RWC_스크롤#
 12796#레드_부스터#
 12799#PC방_쿠폰_상자Ⅴ#
@@ -5905,9 +5905,9 @@
 13018#Sucsamad#
 13019#Ginnungagap#
 13020#Warrior's_Balmung#
-13021#Rental_Combat_Knife#
-13022#Rental_Dagger_of_Counter#
-13023#Rental_Asura#
+13021#Combat_Knife#
+13022#Dagger_of_Counter#
+13023#Asura#
 13024#Refined_Swordbreaker#
 13025#Refined_Mailbreaker#
 13026#Moonlight_Dagger#
@@ -6575,7 +6575,7 @@
 13957#Silf_Manteau_Box#
 13958#Refresh_Shoes_Box#
 13959#Crunch_Toast_Box#
-13960#Identification_Box#
+13960#Name_Change_Coupon_Box#
 13961#Mochi_Box#
 13962#Defolty_Doll_Hat_Box#
 13963#Glaris_Doll_Hat_Box#
@@ -8400,3 +8400,8 @@
 25006#99_Battle_Manual_Box#
 25007#Beast_Powder#
 25008#Beast_Powder_Box#
+
+// Custom
+30000#Bronze_Treasure_Box#
+30001#Gold_Treasure_Box#
+30002#Platinum_Treasure_Box#

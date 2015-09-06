@@ -1,5 +1,6 @@
-// Turn-In Events
-t_pay_dun00.rsw#(Turn-In) Payon Cave#
+// Sakray Server
+izl_test.rsw#Izlude Town#
+pvp_test.rsw#PvP : Room Izlude#
 
 06guild_01.rsw#Guild War Arena#
 06guild_02.rsw#Guild War Arena#
