@@ -3914,6 +3914,16 @@ SKILL_INFO_LIST = {
 			{ SKID.NJ_KIRIKAGE,5 }
 		}
 	},
+	
+	-- Misc Skills --
+	[SKID.ALL_BUYING_STORE] = {
+		"ALL_BUYING_STORE",
+		SkillName = "Open Buying Store",
+		MaxLv = 2,
+		SpAmount = { 30, 30 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1 }
+	},
 
 	-- Death Knight -- 
 	[SKID.DE_BERSERKAIZER] = {
@@ -4217,7 +4227,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Collector Mix",
 	},
 
-	-- Skills --
+	-- Mercenary Skills --
 	[SKID.MS_BASH] = {
 		"MS_BASH";
 		SkillName = "Bash",

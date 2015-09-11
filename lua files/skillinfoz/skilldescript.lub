@@ -6279,26 +6279,11 @@ SKILL_DESCRIPT = {
 	},
 
 	[SKID.ALL_BUYING_STORE] = {
-
-		"Buying Store",
-		"Type : Active",
-		"Target:^777777 Self ^000000",
-		"Catalyst:^777777 1 Purchase License ^000000",
-		"Effect : ^777777Enables the ability to open a purchase stall to buy various kinds of items. Must have atleast 1 item you are buying.^000000",
-	},
-
-	[SKID.ALL_GUARDIAN_RECALL] = {
-
-		"Guardian Recall",
-		"Max Lv : 1",
-		"Type : ^777777Active^bb0000(Return)^000000",
-		"Description : ^777777Warps you to the Town of Mora. 3 seconds fixed-casting time. Skill cooldown is 5 minutes.^000000",
-	},
-
-	[SKID.ALL_ODINS_POWER] = {
-
-		"Odin's Power",
-		"Description : ^777777Increases for 60 seconds Attack and Magic Attack power by 70, but lowers Defense and Magic Defense by 20.^000000",
+		"Open Buying Store",
+		"Skill Form : ^777777Supportive^000000",
+		"Description : ^777777Open a simple store from which",
+		"you can buy various items from others.",
+		"Consumes 1 ^FF0000Bulk Buyer Shop License.^000000"
 	},
 
 

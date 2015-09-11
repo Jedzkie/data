@@ -4,8 +4,8 @@ Disconnected from Server.#
 Disconnected from Server.#
 Server Closed.#
 Someone has Logged in with this ID.#
-Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#
-Incorrect User ID or Password. Please try again.#
+Unregistered User ID. Please make sure you have a registered account and you have correctly typed in the user ID. For more information, please visit ^000099http://panel.eternal-ro.net/^000000#
+Incorrect Username or Password. Please try again.#
 This ID is expired.#
 Rejected from Server.#
 Character Name already exists.#
@@ -1441,13 +1441,13 @@ Please load a Cannon Ball.#
 Please equipped with a Mado Gear Accelerator.#
 Please equipped with a Hovering Booster.#
 [Toxin] Poison effect was applied to the weapon.#
-[Paralysis] Poison effect was applied to the weapon.#
-[Fatigue] Poison effect was applied to the weapon.#
-[Laughing] Poison effect was applied to the weapon.#
-[Disheart] Poison effect was applied to the weapon.#
+[Paralyze] Poison effect was applied to the weapon.#
+[VEnom Bleed] Poison effect was applied to the weapon.#
+[Magic Mushroom] Poison effect was applied to the weapon.#
+[Dex Heart] Poison effect was applied to the weapon.#
 [Pyrexia] Poison effect was applied to the weapon.#
-[Oblivion] Poison effect was applied to the weapon.#
-[Leech] Poison effect was applied to the weapon.#
+[Oblibian cuz] Poison effect was applied to the weapon.#
+[Rich end] Poison effect was applied to the weapon.#
 Can be used only if Hovering state is available.#
 Please equipped with a Self-Destruct Mechanism.#
 Please equipped with a Shape Shift.#
@@ -1459,17 +1459,17 @@ Please equipped with a Optical Camouflage Generator.#
 Please equipped with a Repair Kit.#
 Monkey Wrench is required.#
 [%s] skill has failed.#
-%d higher level is impossible to remove.#
+Deletion is impossible for over level %d#
 Cannot be used without Magic Gear equipped.#
 Dismount Dragon.#
 Dismount Magic Gear.#
 Item#
-Cash#
-Weapon#
+Kafra#
 Armor#
+Weapons#
 Ammo#
 Card#
-Misc#
+Etc.#
 Guitar#
 Seems that you have screwed something up. Hack shield file does not have the correct file version. Please reinstall the client and try again to screw it.#
 The skill requires a spellbook.#
@@ -1598,34 +1598,34 @@ Battlefield staff A is waiting.#
 Battlefield staff B is waiting.#
 Waiting for my situation: %d (Camp A)#
 Waiting for my situation: %d (Camp B)#
-Battlefield display icon.#
-Does not display the icon field.#
+Show battle field icon.#
+Do not Show battle field icon.#
 Field notification was moved.#
 Admission pending notification of the battlefield#
-Anyone#
-[%s] deal '%d' damage on you.#
-[%s] received a damage from [%s] with '%d' damage.#
+Someone#
+[%s] inflicted '%d' damage.#
+[%s] received damage from [%s] for '%d'.#
 [%s] received '%d' damage.#
-[%s] deal damage to [%s] with '%d' damage.#
-You dropped %s (%d).#
+[%s] inflicted [%s] '%d' damage.#
+%s %d ea dropped#
 [%s] Quest - defeated [%s] progress (%d/%d)#
-The Quest [%s] has been removed.#
+[%s] Quest was deleted.#
 [%s] has #
-'%d' EXP#
-'%d' Job EXP#
- gained.#
- has lost.#
-From [%s], '%d' coins were stolen.#
+'%d' EXP #
+'%d' Job EXP #
+received#
+lost.#
+[%s] has stolen '%d' coins from you.#
 Battle Message#
 Party Battle Message Display#
 Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] is #
-casting [%s].#
-Activate lock function.#
-Deactivate lock function.#
+To [%s]#
+use [%s] skill.#
+Function disabled#
+Function enabled#
 Citizens of Midgard, Lady Luck shines upon [%s] !! [%s] has awarded the player with '%s' !!#
 Swordman#
 Magician#
@@ -1718,11 +1718,11 @@ Party recruitment related command#
 Guild alliance application is not possible..#
 Guild hostility application is not possible.#
 Adding friends is not possible in this map.#
-Buying Store Window#
-Price :#
-Money : #
+Opening Purchase Shop#
+Price #
+Zeny#
 Purchase Zeny Limit#
-Please register the item first that has to be purchased.#
+id not register purchase item. please register purchase item#
 Enter the price for item %s.#
 Enter the price for item %s. It has to be below 99990000 Zeny.#
 Enter the item number for %s.#
@@ -1731,9 +1731,9 @@ You have duplicate items in your purchase list.#
 Enter the limited price.#
 You have entered a greater amount of zeny than you have. Please check your zeny.#
 %s : %s  Zeny => %s ea.#
-Available items:#
+Items available to buy#
 Purchase list:#
-Price limit: %d Zeny#
+Limited Price: %s Zeny#
 Buying %s for %s Zeny. Amount: %d.#
 Wanted items#
 Available items:#
@@ -1744,7 +1744,7 @@ You exceed the total amount of items.#
 You have purchased all items within the limited price.#
 You purchased all items.#
 Failed to deal because you have not enough Zeny.#
-You have sold %s. Amount: %d. Total Zeny: %dz#
+You have sold %s %d item at the price of %dz#
 %s item could not be sold because you do not have the wanted amount of items.#
 You don't have any summoned spirits.#
 This is a restricted server.#
@@ -1782,8 +1782,8 @@ Search for Vends#
 Shop Name#
 Amount#
 Price#
-Too much results have been found. Please do a more precisely search.#
-Do you want to open a street stall?#
+"Too many results, modify parameter.#
+Open Shop?#
 Failed to recognize SSO.#
 Cannot move to the applied area.#
 searching  item including the word#
